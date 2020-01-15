@@ -63,10 +63,5 @@ animal_kingdom = {
       }
     }
   }
-  
-    
-  }
-  
-  
-}
+ }
 end
